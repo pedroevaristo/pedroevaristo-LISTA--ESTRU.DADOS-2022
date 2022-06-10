@@ -1,0 +1,7 @@
+
+___________________________
+
+Lista - 2.0 pontos (algumas de suas funções não estão funcionando corretamente
+ e não foi implementado todas as funções que foram solicitadas no enunciado)
+
+__________________________
